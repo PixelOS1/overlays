@@ -1,0 +1,7 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+games-util/sunshine:cuda - Enable cuda specific code
+games-util/sunshine:kms - Enable KMS grab if available
+games-util/sunshine:x11 - Enable X11 grab if available

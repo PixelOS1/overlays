@@ -27,6 +27,7 @@ RDEPEND="
 	dev-libs/boost:=
 	net-libs/miniupnpc:=
 	dev-libs/openssl:=
+	pulseaudio? ( media-sound/pulseaudio )
 	media-video/ffmpeg:=
 
 	cuda? ( dev-util/nvidia-cuda-toolkit )

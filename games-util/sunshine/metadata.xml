@@ -2,8 +2,8 @@
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
 	<maintainer type="person">
-		<email>ykonotopov@gmail.com</email>
-		<name>Yuri Konotopov</name>
+		<email>vincem@pixelos.com</email>
+		<name>Vince McMullin</name>
 	</maintainer>
 	<use>
 		<flag name="cuda">Enable cuda specific code</flag>

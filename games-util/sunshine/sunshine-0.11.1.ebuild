@@ -21,7 +21,7 @@ SRC_URI="
 LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="~amd64"
-IUSE="+cuda kms wayland +x11"
+IUSE="+cuda kms wayland +x11 pulseaudio"
 
 RDEPEND="
 	dev-libs/boost:=
